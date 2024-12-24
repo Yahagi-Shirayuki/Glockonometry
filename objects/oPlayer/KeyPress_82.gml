@@ -1,0 +1,1 @@
+SlideTrans(TRANS_MODE.GOTO, room);
